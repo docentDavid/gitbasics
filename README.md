@@ -1,4 +1,4 @@
-# gitbasics
+# GIT basics
 
 ## Meer tekst
 
